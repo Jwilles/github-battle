@@ -1,8 +1,8 @@
 ## Github Battle
 
-Use this app to battle your friends and determine Githuub dominance.
+Use this app to battle your friends and determine Github dominance.
 
-It is build using React and you can find it deployed via Heroku at https://whatsmytemp.herokuapp.com/
+It is built using React and you can find it deployed via Heroku at https://github-friend-battle.herokuapp.com/
 
 
 ## Install
