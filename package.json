@@ -6,7 +6,6 @@
   "scripts": {
     "production": "webpack -p",
     "start": "webpack-dev-server --port 3000",
-    "postinstall": "webpack -p"
   },
   "author": "",
   "license": "ISC",
